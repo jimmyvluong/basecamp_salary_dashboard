@@ -1,10 +1,10 @@
 # Data Preparation Steps
-1. [Done] Read in only the columns we're interested in.
-2. [Done] Extract the year from "Submitted At" column
+1. Read in only the columns we're interested in.
+2. Extract the year from "Submitted At" column
 3. Rename columns.
 4. Map "Years of Experience" to a simpler field with ranges (0 to 3 years, 4 to 7 years, 8 to 10 years, 10+ years)
 - See: https://github.com/jimmyvluong/Python-CalTPA-Demo/blob/master/caltpa_single_file.ipynb
-5. [] Remove outliers.
+5. Remove outliers.
 
 # Resources
 1. Read data from Google Sheets
