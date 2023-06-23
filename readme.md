@@ -24,3 +24,5 @@ STR(INT([Pay]/[Size of bin])*[Size of bin]) +
 "-" +
 STR(INT([Pay]/[Size of bin])*[Size of bin]+[Size of bin]-1)
 ```
+2. How to show "Only Relevant Values" in filters. Thanks to Jess O'Brien for the tip!
+- https://kb.tableau.com/articles/howto/how-to-show-only-relevant-values-in-filter-when-using-data-blend
