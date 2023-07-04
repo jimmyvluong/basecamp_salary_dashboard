@@ -26,3 +26,14 @@ STR(INT([Pay]/[Size of bin])*[Size of bin]+[Size of bin]-1)
 ```
 2. How to show "Only Relevant Values" in filters. Thanks to Jess O'Brien for the tip!
 - https://kb.tableau.com/articles/howto/how-to-show-only-relevant-values-in-filter-when-using-data-blend
+
+
+# Industry Categories
+
+- https://www.bls.gov/iag/tgs/iag_index_alpha.htm
+- https://data.bls.gov/cew/apps/table_maker/v4/table_maker.htm#type=5&year=2022&qtr=4&own=5&area=US000&supp=0
+Health and wellness
+Education
+Apparel
+Bike
+Technology
